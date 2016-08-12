@@ -1,0 +1,55 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>icon/2238_bg.png</file>
+        <file>icon/2238_blue_normal.png</file>
+        <file>icon/2238_blue_passed.png</file>
+        <file>icon/2238_blue_selected.png</file>
+        <file>icon/2238_bw_normal.png</file>
+        <file>icon/2238_bw_passed.png</file>
+        <file>icon/2238_bw_selected.png</file>
+        <file>icon/2238_chromalogo.png</file>
+        <file>icon/2238_clock.png</file>
+        <file>icon/2238_editmode_normal.png</file>
+        <file>icon/2238_editmode_selected.png</file>
+        <file>icon/2238_file_normal.png</file>
+        <file>icon/2238_file_passed.png</file>
+        <file>icon/2238_green_normal.png</file>
+        <file>icon/2238_green_passed.png</file>
+        <file>icon/2238_green_selected.png</file>
+        <file>icon/2238_head_bg.png</file>
+        <file>icon/2238_left_numberbar.png</file>
+        <file>icon/2238_left_titlebar.png</file>
+        <file>icon/2238_leftbar_bg.png</file>
+        <file>icon/2238_play_normal.png</file>
+        <file>icon/2238_play_passed.png</file>
+        <file>icon/2238_play_selected.png</file>
+        <file>icon/2238_red_normal.png</file>
+        <file>icon/2238_red_passed.png</file>
+        <file>icon/2238_red_selected.png</file>
+        <file>icon/2238_runmode_normal.png</file>
+        <file>icon/2238_runmode_selected.png</file>
+        <file>icon/2238_scroll bar.png</file>
+        <file>icon/2238_searchdown.png</file>
+        <file>icon/2238_stop_normal.png</file>
+        <file>icon/2238_stop_passed.png</file>
+        <file>icon/2238_stop_selected.png</file>
+        <file>icon/2238_Timing_picture.png</file>
+        <file>icon/2238_top_info_normal.png</file>
+        <file>icon/2238_top_info_selected.png</file>
+        <file>icon/2238_top_multi_normal.png</file>
+        <file>icon/2238_top_multi_selected.png</file>
+        <file>icon/2238_top_pattern_normal.png</file>
+        <file>icon/2238_top_pattern_selected.png</file>
+        <file>icon/2238_top_program_normal.png</file>
+        <file>icon/2238_top_program_selected.png</file>
+        <file>icon/2238_top_timing_normal.png</file>
+        <file>icon/2238_top_timing_selected.png</file>
+        <file>icon/2238_top_utility_normal.png</file>
+        <file>icon/2238_top_utility_selected.png</file>
+        <file>icon/home-page.svg</file>
+        <file>icon/map-page.svg</file>
+        <file>icon/weather-page.svg</file>
+        <file>icon/web-page.svg</file>
+        <file>icon/contacts-page.svg</file>
+    </qresource>
+</RCC>
